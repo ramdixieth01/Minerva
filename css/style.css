@@ -1,0 +1,532 @@
+*
+{
+	padding:0px;
+	margin:0px;
+}
+
+body{
+	overflow-x:hidden;
+	
+	
+}
+.container{
+width:100%;
+height:auto;
+
+
+}
+/*.header{
+width:100%;
+height:60px;
+background-color:#636163;
+margin-top:-20px;
+position:fixed;
+}
+
+*/
+.banner{
+width:100%;
+height:400px;
+margin-top:40px;
+	padding-top:-40px;
+	}
+
+.bmt{
+width:500px;
+height:120px;
+margin-left:400px;
+margin-top:-250px;
+}
+.about{
+width:100%;
+height:500px;
+background-color:#FFF;
+}
+.abouti{
+margin-left:425px;
+margin-top:30px;
+padding-top:50px;	
+}
+.aboutt{
+margin-top:20px;
+margin-left:118px;
+}
+.aboutt p{
+	font-family:"Gill Sans", "Gill Sans MT", Myriad Pro, "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color:#908f90;
+	font-weight: bold;
+	margin-left:100px;
+}
+.b{
+	color:#09F;
+	font-family:"Gill Sans", "Gill Sans MT", Myriad Pro, "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-weight: bold;
+}
+.viewm1 {
+width:1200px;
+height:40px;
+background-color:#2471a7;
+margin-left:75px;
+margin-top:5px;
+}
+.viewmt a{
+text-decoration:none;
+font-family:Myriad Pro;
+color:#dedcdb;
+margin-left:30px;
+margin-top:60px;
+font-weight:bold;
+}
+
+.b-description_readmore_button {
+display: inline-block;
+width: 150px;
+border: 1px solid black;
+padding: 10px 0;
+cursor: pointer;
+text-align: center;
+}
+
+.b-description_readmore_wrapper {    
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;  
+    max-width: none !important;
+    width: 100%;
+	
+}
+
+.b-description_readmore {
+    width: 80%;
+    position: relative;
+    margin-bottom: 25px;
+    line-height: 25px;
+    font-size: 15px;;
+	font-weight:bold;
+    text-align: center;
+    box-sizing: border-box;
+   margin-left:180px;
+	font-family:"Gill Sans", "Gill Sans MT", Myriad Pro, "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color:#908f90;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.b-description_readmore_button {
+    display: inline-block;
+    width: 300px;
+    border: 2px solid #2471a7;
+    cursor: pointer; 
+    margin-left:200px;
+	color:#2471a7;
+	font-family: "Gill Sans", "Gill Sans MT", Myriad Pro, "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-transform:uppercase;
+	}
+
+.b-description_readmore_button:hover {
+    color: white;
+    background: #2471a7;
+	
+	
+}
+
+.b-description_readmore_ellipsis:after {    
+    content: '';
+    display: inline-block;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 75%;
+    height: 25px;    
+    background: linear-gradient(to right, rgba(250, 250, 250, 0), rgba(250, 250, 250, 1) 65%);
+} 
+
+.wwd{
+width:1368px;
+height:500px;
+background-color:#c1e5fe;
+margin-top:10px;
+}
+.wt h2{
+	font-family:Myriad Pro;
+	color:#646365;
+	margin-left:550px;
+	padding-top:40px;
+}
+.inno{
+margin-left:50px;
+margin-top:-20px;
+}
+.model{
+margin-left:450px;
+margin-top:-305px;
+}
+.tool{
+margin-left:850px;
+margin-top:-295px;	
+}
+.wwdt{
+	width:100%;
+	height:100px;
+	
+	
+}
+.innot{
+	font-family:Myriad Pro;
+	color:#9d9c9d;
+	font-weight:bold;
+	font-size:15px;
+	margin-left:200px;
+	margin-top:-180px;
+}
+.modelt{
+	font-family:Myriad Pro;
+	color:#9d9c9d;
+	font-weight:bold;
+	font-size:15px;
+margin-left:610px;
+	margin-top:-18px;
+}
+.creatt{
+	font-family:Myriad Pro;
+	color:#9d9c9d;
+	font-weight:bold;
+	margin-left:1000px;
+	margin-top:-18px;
+}
+.facts{
+width:1368px;
+height:450px;
+background-color:#FFF;
+}
+.somef{
+font-family:Myriad Pro;
+color:#636163;
+font-size:30px;
+font-weight:bold;
+margin-left:400px;
+padding-top:25px;
+}
+.fig1{
+font-family:Myriad Pro;
+color:#37acff;
+font-size:100px;
+font-weight:bold;
+margin-left:100px;
+margin-top:70px;
+}
+.fig2{
+font-family:Myriad Pro;
+color:#37acff;
+font-size:100px;
+font-weight:bold;
+margin-left:575px;
+margin-top:-120px;
+}
+.fig3{
+font-family:Myriad Pro;
+color:#37acff;
+font-size:100px;
+font-weight:bold;
+margin-left:1050px;
+margin-top:-120px;
+}
+.figt1{
+font-family:Myriad Pro;
+color:#636163;
+font-size:20px;
+font-weight:bold;
+margin-left:30px;	
+}
+.figt2{
+font-family:Myriad Pro;
+color:#636163;
+font-size:20px;
+font-weight:bold;
+margin-left:535px;	
+margin-top:-25px;
+}
+.figt3{
+font-family:Myriad Pro;
+color:#636163;
+font-size:20px;
+font-weight:bold;
+margin-left:1010px;	
+margin-top:-25px;
+}
+.quote{
+	width:100%;
+	height:350px;
+	margin-top:200px;
+}
+.team{
+	width:1368px;
+	height:1000px;
+	background-color:#fffdfc;
+}
+.teami{
+	margin-left:430px;
+	margin-top:40px;
+	padding-top:50px;
+}
+.marie{
+	margin-left:110px;
+	margin-top:60px;
+}
+.mariei{
+	width:800px;
+	height:700px;
+	margin-left:400px;
+	margin-top:-170px;
+}
+.mariei p{
+	color:#2471a7;
+	font-family:'Gill Sans', 'Gill Sans MT', Myriad Pro, 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+	font-weight: bold;
+	font-size:20px;
+	text-align:justify;
+}
+.frank{
+margin-left:110px;
+margin-top:-450px;	
+}
+.franki{
+width:800px;
+height:700px;
+	margin-left:400px;
+	margin-top:-170px;
+}
+.franki p{
+	color:#2471a7;
+	font-family:'Gill Sans', 'Gill Sans MT', Myriad Pro, 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+	font-weight: bold;
+	font-size:20px;
+	text-align:justify;
+}
+.rose{
+margin-left:110px;
+margin-top:-450px;
+}
+.rosei{
+width:800px;
+height:700px;
+	margin-left:400px;
+	margin-top:-170px;	
+}
+.rosei p{
+	color:#2471a7;
+	font-family:'Gill Sans', 'Gill Sans MT', Myriad Pro, 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+	font-weight: bold;
+	font-size:20px;
+	text-align:justify;
+}
+.rproject{
+	width:1368px;
+	height:600px;
+	background-color:#c1e5fe;
+	
+}
+.rprojecti{
+	margin-left:430px;
+    padding-top:50px;
+}
+.pro1{
+	width:250px;
+	height:250px;
+border:5px solid #2471a7;
+margin-left:80px;
+margin-top:50px;
+}
+.pro2{
+margin-left:400px;
+margin-top:-260px;
+width:250px;
+height:250px;
+border:5px solid #2471a7;
+}
+.pro3{
+width:250px;
+height:250px;
+border:5px solid #2471a7;
+margin-left:730px;
+margin-top:-260px;
+}
+.pro4{
+
+width:250px;
+height:250px;
+border:5px solid #2471a7;
+margin-left:1050px;
+margin-top:-260px;
+}
+.contact{
+width:1368px;
+height:600px;
+background-color:#fffdfc;
+}
+.contacti{
+margin-left:430px;
+padding-top:50px;
+}
+.con{
+margin-left:100px;
+margin-top:80px;
+}
+.con h3{
+	color:#2471a7;
+	font-family:'Gill Sans', 'Gill Sans MT', Myriad Pro, 'DejaVu Sans Condensed', Helvetica, Arial, sans-serif;
+	font-size:25px;
+}
+.reg{
+	margin-left:500px;
+	margin-top:-32px;
+}
+.reg h3{
+	color:#2471a7;
+	font-family:'Gill Sans', 'Gill Sans MT', Myriad Pro, 'DejaVu Sans Condensed', Helvetica, Arial, sans-serif;
+	font-size:25px;
+}
+.conh{
+	margin-left:100px;
+	margin-top:20px;
+}
+.conh h3{
+	color:#4d4d4e;
+	font-family:'Gill Sans', 'Gill Sans MT', Myriad Pro, 'DejaVu Sans Condensed', Helvetica, Arial, sans-serif;
+	font-size:15px;
+	font-weight:bold;
+}
+.regh{
+	margin-left:500px;
+	margin-top:-20px;
+}
+.regh h3{
+	color:#4d4d4e;
+	font-family:'Gill Sans', 'Gill Sans MT', Myriad Pro, 'DejaVu Sans Condensed', Helvetica, Arial, sans-serif;
+	font-size:15px;
+	font-weight:bold;
+}
+.cond{
+	margin-left:100px; 
+	margin-top:15px;
+}
+.cond p{
+	color:#4d4d4e;
+	font-family:'Gill Sans', 'Gill Sans MT', Myriad Pro, 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+	font-weight: bold;
+	font-size:18px;
+	text-align:justify;
+}
+.regd{
+	margin-left:500px;
+	margin-top:-52px;
+}
+.regd p{
+	color:#4d4d4e;
+	font-family:'Gill Sans', 'Gill Sans MT', Myriad Pro, 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+	font-weight: bold;
+	font-size:18px;
+	text-align:justify;
+}
+.contactf{
+	width:100%;
+	height:600px;
+	 border-radius: 5px;
+    background-color: #fffdfc;
+    padding: 20px;
+	margin-top:30px;
+}
+/* Style inputs with type="text", select elements and textareas */
+.contactf input[type=text], select, textarea {
+    width: 800px;; /* Full width */
+    padding: 12px; /* Some padding */  
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+.contactf input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+.contactf input[type=submit]:hover {
+    background-color: #45a049;
+}
+.contactf label{
+	font-family: "Gill Sans", "Gill Sans MT", Myriad Pro, "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-align: justify;
+}
+.contactf h4{
+	color:#4d4d4e;
+	font-family:'Gill Sans', 'Gill Sans MT', Myriad Pro, 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+	font-weight: bold;
+	font-size:18px;
+	text-align:justify;
+}
+.header{
+	width:1368px;
+    height:50px;
+	background-color:#636163;
+	margin-top:-4200px;
+	position:fixed;
+}
+.min {
+	height:35px;
+	width:100px;
+	color:#fdfdfd;
+	font-family: "Gill Sans", "Gill Sans MT", Myriad Pro, "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	margin-top:18px;
+	margin-left:20px;
+	
+}
+.drop {
+	width:600px;
+	height:40px;
+	margin-left:650px;
+	margin-top:-42px;
+	}
+.drop li{
+	list-style-type:none;
+	float:left;
+	margin:10px;
+	font-family: "Gill Sans", "Gill Sans MT", Myriad Pro, "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-weight:bold;
+	color:#fdfdfd;
+	
+}
+.drop li a {
+	text-decoration: none;
+	color:#fdfdfd;
+	}
+.drop li a:hover{
+	color:#fdfdfd; 
+	border: none;
+  font: 10px;
+ 
+  text-decoration: normal;
+ 
+  text-shadow: 0 0 10px #37acff , 0 0 20px #37acff , 0 0 15px #37acff , 0 0 20px #37acff , 0 0 35px #37acff , 0 0 40px #37acff , 0 0 50px #37acff ;
+  -webkit-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+  -moz-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+  -o-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+  transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+}
+.footer{
+	width:1368px;
+	height:100px;
+	background-color:#636163;
+	margin-top:400px;
+}
